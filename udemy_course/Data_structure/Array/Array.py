@@ -58,6 +58,6 @@ copyArray = array(val.typecode, (x*3 for x in val))
 
 arr=array('i', [12, 23, 45, 234, 134, 235])
 
-i = arr.index(134)
+i = arr.index(234)
 
 print('index of the number: ', i )
